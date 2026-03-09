@@ -1,5 +1,34 @@
 {
   "dialog_enabled": true,
   "html_url": "https://choudharydimpaljat.github.io/Online-dilog-/",
-  "keys": [...]
+  "keys": [
+    {
+      "key": "NMMS-FREE-2025-DEMO",
+      "device_id": "any",
+      "expiry": "lifetime",
+      "offline_login": true,
+      "banned": false
+    },
+    {
+      "key": "NMMS-PRO1-ABCD-1234",
+      "device_id": "any",
+      "expiry": "2025-12-31",
+      "offline_login": true,
+      "banned": false
+    },
+    {
+      "key": "NMMS-HBAAR-LOGIN-00",
+      "device_id": "any",
+      "expiry": "lifetime",
+      "offline_login": false,
+      "banned": false
+    },
+    {
+      "key": "NMMS-BANNED-KEY-000",
+      "device_id": "any",
+      "expiry": "lifetime",
+      "offline_login": false,
+      "banned": true
+    }
+  ]
 }
