@@ -1,11 +1,11 @@
 {
-  "dialog_enabled": true,
+  "dialog_enabled": false,
   "html_url": "https://choudharydimpaljat.github.io/Online-dilog-/",
   "keys_url": "https://raw.githubusercontent.com/choudharydimpaljat/Demo/refs/heads/main/Key",
   "keys": [
     {
-      "key": "NMMS-FREE-2025-DEMO",
-      "device_id": "any",
+      "key": "op",
+      "device_id": "b7fcd04f7c59af3d",
       "expiry": "lifetime",
       "offline_login": true,
       "banned": false
