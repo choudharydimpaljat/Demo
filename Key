@@ -1,21 +1,20 @@
 {
-  "dialog_enabled": true,
-  "html_url": "https://choudharydimpaljat.github.io/Online-dilog-/",
-  "keys_url": "https://raw.githubusercontent.com/choudharydimpaljat/Demo/refs/heads/main/Key",
-  "keys": [
-    {
-      "key": "op",
-      "device_id": "b7fcd04f7c59af3d",
-      "expiry": "lifetime",
-      "offline_login": true,
-      "banned": false
-    },
-    {
-      "key": "NMMS-PRO1-ABCD-1234",
-      "device_id": "any",
-      "expiry": "2025-12-31",
-      "offline_login": true,
-      "banned": false
-    }
-  ]
+  "title": "Face Auth Pro 🔐",
+  "info": "For Activation code:- Copy your Apk id and send it to Admin",
+  "apk_label": "APK ID",
+  "copy_btn": "COPY",
+  "key_label": "ACTIVATION KEY",
+  "key_hint": "Enter Activation Code",
+  "admin_btn": "ADMIN",
+  "login_btn": "LOGIN",
+  "verifying": "Verifying...",
+  "version": "v1.0",
+  "footer": "Powered by ",
+  "footer_name": "OP JAT",
+  "telegram": "https://t.me/nmmsmod",
+  "err_empty": "Please enter activation code",
+  "err_network": "Please turn on network connection",
+  "copy_toast": "Device ID Copied!",
+  "success": "Activation Successful!",
+  "valid_until": "Valid until: "
 }
