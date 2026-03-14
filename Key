@@ -1,14 +1,9 @@
 {
-  "title": "Face Auth Pro",
+  "dialog_show": true,
+  "title": "Face Auth Pro 🔐",
   "info": "For Activation code:- Copy your Apk id and send it to Admin",
-  "apk_label": "APK ID",
-  "copy_btn": "COPY",
-  "key_label": "ACTIVATION KEY",
   "key_hint": "Enter Activation Code",
   "admin_btn": "ADMIN",
-  "login_btn": "LOGIN",
-  "verifying": "Verifying...",
-  "loading": "Loading...",
   "version": "v1.0",
   "footer": "Powered by ",
   "footer_name": "OP JAT",
@@ -20,13 +15,6 @@
       "device_id": "b7fcd04f7c59af3d",
       "expirydate": "13-04-2026",
       "key": "opjat",
-      "user": "omprakash"
-    },
-{
-      "Allowoffline": false,
-      "device_id": "5a473fea8dbd5fd3",
-      "expirydate": "13-04-2026",
-      "key": "br",
       "user": "omprakash"
     }
   ]
