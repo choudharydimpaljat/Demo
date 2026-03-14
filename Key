@@ -1,5 +1,5 @@
 {
-  "dialog_show": true,
+  "dialog_show": flase,
   "title": "Face Auth Pro 🔐",
   "info": "For Activation code:- Copy your Apk id and send it to Admin",
   "key_hint": "Enter Activation Code",
